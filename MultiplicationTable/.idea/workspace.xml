@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa547a2a-d5ac-4ae5-a19c-c6f3f6467794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplicationTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/SwapVarValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/out/production/SwapVarValue/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwapVarValue/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,7 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/dev/Lithan/Java/Excercise/MultiplicationTable"
   }
 }]]></component>
   <component name="RunManager">
