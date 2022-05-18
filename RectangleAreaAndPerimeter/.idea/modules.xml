@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CircleAreaAndPerimeter.iml" filepath="$PROJECT_DIR$/CircleAreaAndPerimeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleAreaAndPerimeter.iml" filepath="$PROJECT_DIR$/RectangleAreaAndPerimeter.iml" />
     </modules>
   </component>
 </project>
