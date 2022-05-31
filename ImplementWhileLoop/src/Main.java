@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
@@ -11,11 +12,12 @@ public class Main {
             itemCount++;
             System.out.println("Item Count: " + itemCount);
             System.out.print("Is there more item? (y/n): ");
-            char confirm = input.next().charAt(0);
-            if(confirm == 'y' || confirm == 'Y'){
+            char confirm = input.next().toLowerCase().charAt(0);
+            if(confirm == 'y'){
                 item = true;
             }else{
-                break;
+                System.out.println("Thank you for shopping!");
+                item = false;
             }
         }
         System.out.println("Your item count: " + itemCount);
